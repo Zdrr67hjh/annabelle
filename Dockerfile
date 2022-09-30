@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="1b2a9878-79d3-433a-a4e3-984847807594"
-ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page283/webuild.zip"
+ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page283/lodge.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
